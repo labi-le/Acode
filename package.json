@@ -89,7 +89,7 @@
     "@babel/runtime": "^7.16.7",
     "@deadlyjack/ajax": "^1.0.9",
     "autosize": "^5.0.0",
-    "axios": "^0.21.1",
+    "axios": "^1.21.0",
     "core-js": "^3.20.3",
     "crypto": "^1.0.1",
     "crypto-js": "^4.0.0",
